@@ -1,2 +1,2 @@
-# Test Maga Proect
-##just for fun
+# Test Mega Proect
+## just for fun
